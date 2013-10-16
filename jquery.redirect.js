@@ -1,6 +1,6 @@
 /**
 * jquery.redirect.js v1.0
-* Redirect the browser submitting data using post or get methods
+* Redirect the browser while submitting data using post or get methods
 * https://github.com/skyrpex/jquery.redirect.js
 *
 * Copyright 2013, Cristian Pallarés
